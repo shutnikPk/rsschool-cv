@@ -9,7 +9,6 @@
         - Take a part in QA course in "A1QA" Company (none sertificated);    
     * #### Work experience
         - **2019-Now** Design engineer in "MAZ-MAN" Company;
-    * #### About me
-        - I've leaved RSschool courses without finishing.
+    * #### About me        
         - In 2019 started interesting HTML&CSS&JS. Helped my wife done education course "Web-design" in university "EHU";
         - [https://codepen.io/Shutnik_pk] (my current skils).
