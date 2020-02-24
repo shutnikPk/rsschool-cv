@@ -1,1 +1,1 @@
-https://shutnikPk.github.io/rsschool-cv/cv
+https://shutnikPk.github.io/rsschool-cv/
