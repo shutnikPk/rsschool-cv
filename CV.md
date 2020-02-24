@@ -1,4 +1,5 @@
-+ ## CV About me for the 1-st git-Task 
+# Yauheni, Shut
+## CV About me for the 1-st git-Task 
     * #### Contact information
         - Yauheni, Shut;
         - Phone num: 375-44-5557975;  
