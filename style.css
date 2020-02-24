@@ -1,0 +1,59 @@
+
+body{
+    padding: 10px;
+   /* margin: 10px;*/
+    display: flex;  
+    max-width: 984px;     
+    background: #0b7377;       
+    color: aliceblue;
+    font-size: 14pt;    
+    justify-content:center;
+    flex-wrap: wrap;
+    justify-self: center;
+    margin: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    
+}
+
+header{
+    width: 100%;
+    padding: 10px; 
+   text-align: center; 
+    margin-top: 30px;     
+}
+
+.inf{
+    /*display: flex;
+    align-self: start;
+    flex-wrap: wrap;*/
+    max-width: 508px;    
+    margin: 20px;
+}
+
+picture{    
+    padding: 20px;
+    margin: 20px;
+    
+}
+
+
+a {       
+   color: #fff;      
+}
+a:hover::after {
+    content: attr(data-hover);
+}
+
+li h2{
+    font-size: 14pt;
+    text-transform: uppercase;
+}
+
+li span{
+    font-weight: bolder;
+    font-style: italic;
+}
