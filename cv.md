@@ -23,3 +23,25 @@ I work as a design engineer. I think that my actual job will lead me to stagnati
 - JavaScript (Fundamentals, ES6+, DOM, JSON, Asynchronous JavaScript)
 - Git/GitHub
 - Figma, Photoshop
+
+# Code Examples
+
+```
+const getChar = (char: string, isOperator: boolean = false): void => {
+    if (isLastCharOperator && isOperator) {
+      let expression: string[] = output.split("");
+      expression[expression.length - 1] = char;
+      setOtutput(expression.join(""));
+      return;
+    }
+```
+
+# Education
+
+- **Belarusian National Technical University**
+  - Metall cutting
+
+# Languages
+
+- **Russian** - native speaker.
+- **English** - A2 (B1 in process...)
