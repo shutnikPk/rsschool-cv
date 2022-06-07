@@ -1,1 +1,1 @@
-[Shut CV.md](https://shutnikPk.github.io/rsschool-cv/cv "My CV.md")
+[Shut CV](https://shutnikPk.github.io/rsschool-cv "My CV")
