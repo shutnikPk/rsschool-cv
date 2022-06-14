@@ -1,0 +1,10 @@
+.two-columns-layout {
+  display: flex;
+  align-items: center;
+  column-gap: 10px;
+}
+
+.two-columns-layout__column {
+  flex-direction: column;
+  align-items: flex-start;
+}
