@@ -1,0 +1,16 @@
+.logo-link {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  width: 120px;
+  height: 40px;
+  object-fit: contain;
+  cursor: pointer;
+}
+.logo--text {
+  color: var(--color-light);
+  font-size: 45px;
+  font-weight: bold;
+}

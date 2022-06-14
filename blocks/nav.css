@@ -1,0 +1,19 @@
+.nav {
+  min-width: 30%;
+}
+.nav--list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav--list--item {
+}
+.nav--list--item--link {
+  color: var(--color-light);
+}
+.nav--list--item--link:hover {
+  color: #ae957f;
+}
+.nav--list--item--link__active {
+  color: #d48244;
+}
