@@ -1,0 +1,14 @@
+.header {
+  grid-area: header;
+  display: flex;
+  height: 60px;
+  width: 100%;
+  color: var(--color-light);
+  padding: 0 20px;
+  box-shadow: 0px 15px 31px -24px rgba(34, 60, 80, 0.5);
+}
+.header--title {
+  flex-grow: 2;
+}
+.header--logo {
+}
