@@ -1,0 +1,25 @@
+.footer {
+  grid-area: footer;
+  display: flex;
+  height: 60px;
+  width: 100%;
+  color: var(--color-light);
+  padding: 0 20px;
+  box-shadow: 0px -14px 22px -15px rgba(34, 60, 80, 0.2);
+}
+.footer--container {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}
+.footer--contact--link {
+  color: var(--color-light);
+  font-size: 18px;
+}
+.footer--contact--link:hover {
+  color: #ae957f;
+}
+
+.footer--info {
+  display: flex;
+}

@@ -1,0 +1,15 @@
+.dot {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border: var(--color-light) 1px solid;
+  border-radius: 50%;
+}
+.dot__active {
+  background-color: var(--color-light);
+}
+.dot__small {
+  width: 8px;
+  height: 8px;
+  background-color: var(--color-light);
+}
